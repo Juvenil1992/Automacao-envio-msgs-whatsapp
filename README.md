@@ -1,1 +1,1 @@
-Olá , Esse código realiza envio de mensagens de whatsapp para todos os clientes que estiverem na planilha clientes utilizando pyautogui e realiza tratamento de erro criando um planilha uma nova planilha com os nomes que ouve erro ao enviar a mensagem.
+Olá , Esse código realiza envio de mensagens personalizadas de whatsapp para todos os clientes que estiverem cadastrados na planilha clientes utilizando pyautogui e realiza tratamento de erro criando uma planilha com os nomes e numeros que ouveram erro ao enviar a mensagem.
